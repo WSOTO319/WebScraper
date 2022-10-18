@@ -1,6 +1,6 @@
 const PORT = 8000; // const variable for the port being used
 
-//const variables for the require statements needed to use each npm package
+//const variables for the require statements needed to use each npm package module
 //What is the difference between require and import? One of the major differences between require() and import() is that require() can be
 //called from anywhere inside the program whereas import() cannot be called conditionally, it always runs at the beginning of the file.
 //To use the require() statement, a module must be saved with .
